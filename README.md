@@ -3,11 +3,13 @@
 <h1 align="center">Hi 👋, I'm Naser</h1>
 <h3 align="center">A passionate fullStack developer from France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ultimecreation&label=Profile%20views&color=0e75b6&style=flat" alt="ultimecreation" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ultimecreation" alt="ultimecreation" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://software-framework.com/](https://software-framework.com/)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ultimecreation&label=Profile%20views&color=0e75b6&style=flat" alt="ultimecreation" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ultimecreation" alt="ultimecreation" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
