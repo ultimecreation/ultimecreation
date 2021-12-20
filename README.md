@@ -3,9 +3,8 @@
 <h1 align="center">Hi 👋, I'm a passionate fullStack developer from France</h1>
 
 <h3 align="left">Connect with me:</h3>
-<br/>
-[Portfolio](https://software-framework.com/) 
-<br/><br/>
+[Portfolio](https://software-framework.com/)
+
 <hr/>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ultimecreation" alt="ultimecreation" /></a> </p>
