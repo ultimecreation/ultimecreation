@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm a passionate fullStack developer from France</h1>
 
 <h3 align="left">Connect with me:</h3>
-- 👨‍💻 All of my projects are available on my [Portfolio](https://software-framework.com/) 
+<br/>
+[Portfolio](https://software-framework.com/) 
 <br/><br/>
 <hr/>
 
