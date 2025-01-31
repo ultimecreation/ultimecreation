@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm a passionate fullStack developer from France</h1>
 
-<h3 align="left">Connect with me: [website](https://siteinternetprofessionnel.com/) </h3>
+<h3 align="left"> <a href="https://siteinternetprofessionnel.com/">See my work on my protfolio </a></h3>
 
 
 <hr/>
